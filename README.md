@@ -1,4 +1,4 @@
-<h1>Hi, I’m Rafael Bira! 👋</h1>
+<h1>Hello World, I’m Rafael Bira!</h1>
 <br>
 <h2>About me</h2>
   🔍 I am a very curious, self-taught person and I learn very easily.<br>
@@ -11,6 +11,6 @@
 
 <h2>Contact</h2>
   You can send me an e-mail to 📥 <a href="mailto:rafaelmichelins@gmail.com">rafaelmichelins@gmail.com</a><br>
-  or else you can find me at 👨‍⚖️ <a href="https://www.linkedin.com/in/rafael-michelin-salomon-volont%C3%A9-aa9550238/">LinkedIn</a>
+  or else you can find me at 👨‍⚖️ <a href="https://www.linkedin.com/in/rafael-michelin-aa9550238/">LinkedIn</a>
 
 <h2>Thanks for stopping by! 😊</h2>
