@@ -10,7 +10,7 @@
   Another thing that triggers my curiosity is learning about other languages (not IT) and cultures. 🌐 That's why I'm trying to learn German and French, for example. Personally I believe that this way you can better communicate and understand people, their mindsets and ways of thinking. That's for sure a marvelous thing!
 
 <h2>Contact</h2>
-  You can send me an e-mail to 📥 <a href="mailto:rafaelmichelins@gmail.com">rafaelmichelins@gmail.com</a><br>
-  or else you can find me at 👨‍⚖️ <a href="https://www.linkedin.com/in/rafael-michelin-aa9550238/">LinkedIn</a>
+  You can send me an <a href="mailto:rafaelmichelins@gmail.com">e-mail</a> 📥 <br>
+  or else you can find me at <a href="https://www.linkedin.com/in/rafael-michelin-aa9550238/">LinkedIn</a> 👨‍⚖️ 
 
 <h2>Thanks for stopping by! 😊</h2>
